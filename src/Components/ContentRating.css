@@ -1,0 +1,24 @@
+.content-rating {
+  text-align: center;
+}
+
+.like-button {
+  background-color: green;
+  color: white;
+}
+
+.dislike-button {
+  background-color: red;
+  color: white;
+}
+.content-rating {
+  text-align: center;
+}
+
+.rating-buttons {
+  margin-top: 20px;
+}
+
+.like-button {
+  margin-right: 10px;
+}
